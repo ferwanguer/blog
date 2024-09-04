@@ -22,7 +22,7 @@ hideBackToTop: false
 
 —Pero eres consciente de que lo quieras o no, eres víctima del tiempo perdido.
 
-—Bueno, eso no significa que esté dispuesto a perderlo.
+—Bueno, eso no significa que esté dispuesto a tirarlo así, sin más.
 
 —Entonces, de todo tu tiempo, cuánto crees que se te escapa en una vida.
 
