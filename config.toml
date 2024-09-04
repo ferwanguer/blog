@@ -75,7 +75,7 @@ name = "Critique"
 url = "/blog/general-critique"
 
 [[params.menu]]
-name = "about"
+name = "About"
 url = "/blog/about"
 
 # Syntax highligth on code blocks
