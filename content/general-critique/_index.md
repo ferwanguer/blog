@@ -1,16 +1,16 @@
 ---
-title: "Log-Structured Merge Tree"
+title: "Sección de crítica existencial"
 date: "2023-11-12"
-summary: "An LSM Tree overview and Java implementation."
-description: "An LSM Tree overview and Java implementation."
+summary: ""
+description: ""
 toc: false
 readTime: true
 autonumber: true
 math: true
-tags: ["database", "java"]
+tags: []
 showTags: false
 hideBackToTop: false
 ---
 
 
-Fernando Wanguemert Guerra is  definitely
+Honestamente, no sé muy bien que voy a acabar poniendo aquí. En cualquier caso, sentía que este espacio se quedaría cojo si no incluyera alguna sección crítica ya sea referida a mi, a la sociedad, a la realidad en general o simplemente a un libro. Irónico sería que se quedara vacía.
