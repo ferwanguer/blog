@@ -40,11 +40,11 @@ breadcrumbs = false
 # Social icons
 [[params.social]]
 name = "linkedin"
-url = "https://www.linkedin.com/in/user/"
+url = "https://www.linkedin.com/in/fernando-wanguemert-guerra-200522145/"
 
 [[params.social]]
-name = "medium"
-url = "https://medium.com/@user"
+name = "X"
+url = "https://x.com/demarquezortega"
 
 [[params.social]]
 name = "github"
