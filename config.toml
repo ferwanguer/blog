@@ -71,7 +71,7 @@ name = "Politics"
 url = "/blog/politics"
 
 [[params.menu]]
-name = "General critique of existence and reality"
+name = "Critique"
 url = "/blog/general-critique"
 
 [[params.menu]]
