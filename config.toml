@@ -1,6 +1,6 @@
 baseURL = 'https://ferwanguer.github.io/blog'
 languageCode = 'en-us'
-title = 'Blog'
+title = 'Fernando Wangüemert Guerra'
 theme = 'typo'
 
 [taxonomies]
@@ -18,15 +18,23 @@ colorPalette = 'default'
 hideHeader = false
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Hi!'
+homeIntroTitle = 'Como vamos, bienvenido.'
 homeIntroContent = """
-I am an Italian Software Engineer with a strong foundation in computer science and a passion for solving complex problems.
-I am interested in a range of topics, including algorithms, distributed systems, databases, and information retrieval.
+Welcome to this online space, where I occasionally post what I write about my musings and the topics that interest me.
+I've divided them into science, politics, existential critique, and finally, fictional tales in which I hope you don't see yourself reflected. 
+Most of the content will be written in Spanish, language of civilized people. Nevertheless, I hope you enjoy what you read. Tons of fun foreseen, you'll
+be relieved to know that everything published here came from the lingering fingers of a human.
+
+Cheers,
+
+Fer
+
+*04 September 2024*
 """
 
 # Collection to display on home
-homeCollectionTitle = 'Posts'
-homeCollection = 'posts'
+homeCollectionTitle = 'You can start with'
+homeCollection = 'stories'
 
 # Lists parameters
 paginationSize = 100
@@ -51,12 +59,20 @@ url = "https://github.com/ferwanguer"
 
 # Main menu pages
 [[params.menu]]
-name = "home"
+name = "Home"
 url = "/blog"
 
 [[params.menu]]
-name = "posts"
-url = "/blog/posts"
+name = "Stories"
+url = "/blog/stories"
+
+[[params.menu]]
+name = "Politics"
+url = "/blog/politics"
+
+[[params.menu]]
+name = "General critique of existence and reality"
+url = "/blog/general-critique"
 
 [[params.menu]]
 name = "about"
@@ -69,10 +85,10 @@ style = 'bw'
 
 # Giscus comments
 [params.giscus]
-enable = false
-repo = "user/repo"
-repoid = "repoId"
+enable = true
+repo = "ferwanguer/blog"
+repoid = "R_kgDOMsqAbA"
 category = "General"
-categoryid = "categoryId"
+categoryid = "DIC_kwDOMsqAbM4CiM0e"
 mapping = "pathname"
 theme = "preferred_color_scheme"
