@@ -8,7 +8,7 @@ tag = 'tags'
 
 # Google analytics code
 googleAnalytics = "G-P7F1V0MGD9"
-
+isProduction = true
 [params]
 # Meta description
 description = "A non-political political Blog"
