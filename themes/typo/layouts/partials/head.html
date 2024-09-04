@@ -32,7 +32,7 @@
 {{ partialCached "head/css.html" . }}
 {{ partialCached "head/js.html" . }}
 
-{{ if hugo.IsProduction }}
+<!-- {{ if hugo.IsProduction }} -->
 {{ template "_internal/google_analytics.html" . }}
 
 {{ if .Site.Params.umami.enable }}
