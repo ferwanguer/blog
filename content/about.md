@@ -5,20 +5,12 @@ hideBackToTop: true
 hidePagination: true
 ---
 
-I got a Bachelor’s degree from the [University of Trento](https://www.unitn.it/), and my 
-Master’s degree from the [University of Milan](https://www.unimi.it/). Currently, 
-I work as a Software Engineer at [Amazon](https://www.amazon.jobs/teams/aft) Berlin.
+I got a Bachelor’s degree from the [Polytechnic University of Madrid](https://www.etsiae.upm.es/) in aerospace engineering. That was the last time I saw something resembling a plane. I got my Master’s degree from [TU Berlin](https://www.tu.berlin/) and [TU Delft](https://www.tudelft.nl/en/) in Applied Mathematics, which is what I really liked. This way, my "formal" academic path ended in 2021 after 6 years, paving the way to a never ending "non-ruled" learning journey. Prefering to return to Spain instead of doing a PhD abroad (A PhD in Spain is the equivalent of taking a vow of poverty), I started working in the private sector in Madrid.
 
-During my studies, I gained a lot of interest in algorithms and data structures, as well as 
-distributed systems, databases, and search engines. I explored those topics with my master’s 
-thesis on [graph compression](https://github.com/tomfran/ANS-Graph-compression), and with side 
-projects on [LSM tree](https://github.com/tomfran/LSM-Tree) and [search engine](https://github.com/tomfran/search-rs) 
-implementations.
+I've worked in [GMV](https://gmv.com/es-es) as a Systems Engineer and then in [Capgemini](https://www.capgemini.com/) as a Data Scientist. Now, I work at [Airbus](https://www.airbus.com/en) in Getafe (Madrid, Spain) as a DevOps Engineer. 
 
-I had the opportunity of being a contestant at [SWERC](https://swerc.eu/), a team competitive 
-programming competition, in 2020 and 2022, also, I liked to participate in 
-[Google Hashcode](https://en.wikipedia.org/wiki/Hash_Code_(programming_competition)) every time 
-I got the chance.
 
-In my free time, I like to practice calisthenics and improve my cooking. I also [read](/library) 
-occasionally but not as much as I should.
+In my free time, I use to practice some sport in a non-consistent manner to free my mind. I take pleasure in reading and really enjoy writing—two severely underrated abilities, in my opinion.
+
+
+That's it. 
