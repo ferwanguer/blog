@@ -6,12 +6,11 @@ theme = 'typo'
 [taxonomies]
 tag = 'tags'
 
-# Google analytics code
-googleAnalytics = "G-P7F1V0MGD9"
-
 [params]
 # Meta description
 description = "A non-political political Blog"
+# Google analytics code
+googleAnalytics = "G-P7F1V0MGD9"
 
 # Appearance settings
 theme = 'auto'
