@@ -14,28 +14,28 @@
 
 @font-face {
     font-family: 'Literata';
-    src: url('/fonts/Literata/Literata-SemiBold.woff2') format('woff2');
+    src: url('/blog/fonts/Literata/Literata-SemiBold.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Literata';
-    src: url('/fonts/Literata/Literata-SemiBoldItalic.woff2') format('woff2');
+    src: url('/blog/fonts/Literata/Literata-SemiBoldItalic.woff2') format('woff2');
     font-weight: bold;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Monaspace';
-    src: url('/fonts/Monaspace/MonaspaceArgon-Regular.woff') format('woff');
+    src: url('/blog/fonts/Monaspace/MonaspaceArgon-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Monaspace';
-    src: url('/fonts/Monaspace/MonaspaceArgon-SemiBold.woff') format('woff');
+    src: url('/blog/fonts/Monaspace/MonaspaceArgon-SemiBold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 }
