@@ -1,4 +1,4 @@
-baseURL = 'https://ferwanguer.github.io'
+baseURL = 'https://ferwanguer.github.io/blog'
 languageCode = 'en-us'
 title = 'Blog'
 theme = 'typo'
@@ -53,15 +53,15 @@ url = "https://github.com/ferwanguer"
 # Main menu pages
 [[params.menu]]
 name = "home"
-url = "/blog"
+url = ""
 
 [[params.menu]]
 name = "posts"
-url = "/blog/posts"
+url = "/posts"
 
 [[params.menu]]
 name = "about"
-url = "/blog/about"
+url = "/about"
 
 # Syntax highligth on code blocks
 [markup]
