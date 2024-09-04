@@ -1,7 +1,7 @@
 baseURL = 'https://ferwanguer.github.io'
 languageCode = 'en-us'
 title = 'Blog'
-theme = 'typo'
+theme = 'auto'
 
 [taxonomies]
 tag = 'tags'
