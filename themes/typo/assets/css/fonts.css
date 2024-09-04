@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'Literata';
-    src: url('/fonts/Literata/Literata-Light.woff2') format('woff2');
+    src: url('/blog/fonts/Literata/Literata-Light.woff2') format('woff2');
     font-weight: light;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Literata';
-    src: url('/fonts/Literata/Literata-LightItalic.woff2') format('woff2');
+    src: url('/blog/fonts/Literata/Literata-LightItalic.woff2') format('woff2');
     font-weight: light;
     font-style: italic;
 }
