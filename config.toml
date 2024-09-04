@@ -1,4 +1,4 @@
-baseURL = 'https://ferwanguer.github.io'
+baseURL = 'https://ferwanguer.github.io/blog'
 languageCode = 'en-us'
 title = 'Blog'
 theme = 'typo'
