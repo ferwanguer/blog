@@ -67,7 +67,7 @@ name = "Stories"
 url = "/blog/stories"
 
 [[params.menu]]
-name = "Politics"
+name = "Polis"
 url = "/blog/politics"
 
 [[params.menu]]
