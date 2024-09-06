@@ -10,7 +10,7 @@ I got my Bachelor’s degree from the [Polytechnic University of Madrid](https:
 I've worked in [GMV](https://gmv.com/es-es) as a Systems Engineer and then in [Capgemini](https://www.capgemini.com/) as a Data Scientist. Now, I work at [Airbus](https://www.airbus.com/en) in Getafe (Madrid, Spain) as a DevOps Engineer. 
 
 
-In my free time, I use to practice some sport in a non-consistent manner to free up my mind. I take pleasure in reading and really enjoy writing—two severely underrated abilities, in my opinion.
+In my free time, I use to practise some sport in a non-consistent manner to free up my mind. I take pleasure in reading and really enjoy writing—two severely underrated abilities, in my opinion.
 
 
 That's it. 
