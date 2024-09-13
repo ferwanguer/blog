@@ -1,5 +1,5 @@
 ---
-title: "Sección de crítica existencial"
+title: ""
 date: "2023-11-12"
 summary: ""
 description: ""
