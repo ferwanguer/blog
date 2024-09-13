@@ -5,7 +5,7 @@ summary: |
   I wrote this a few months ago for a trip to Brussels with some friends where, as an inside joke, we discussed the possibility of addressing the European Parliament. The topic would have been related to Europe and the fact that we are not old. Well, I took it a bit more seriously than anticipated. 
 
   I should point out that I stole a few Aaron Sorkin quotes from the West Wing. Anyway, enjoy it.
-description: "description"
+description: "Discurso político sobre la situación de los jóvenes en Europa"
 toc: false
 readTime: false
 autonumber: true
