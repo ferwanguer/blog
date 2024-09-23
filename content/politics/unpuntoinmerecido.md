@@ -1,8 +1,8 @@
 ---
 title: "Un punto inmerecido"
 date: "2024-04-03"
-summary: >
-Lo escribí para un curso de relatos como un texto más experimental. Intentando encasillarlo dentro de algun género literario, llegué a la conclusión de que esto no era más que un discurso político. Una propuesta. 
+summary:  |
+    Lo escribí para un curso de relatos como un texto más experimental. Intentando encasillarlo dentro de algun género literario, llegué a la conclusión de que esto no era más que un discurso político. Una propuesta.
 description: "A la letra i le sobra su punto."
 toc: false
 readTime: true
