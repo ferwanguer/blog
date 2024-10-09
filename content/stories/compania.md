@@ -1,6 +1,6 @@
 ---
 title: "Es la compañía"
-date: "2023-07-30"
+date: "2024-07-30"
 summary: "Escrito para un curso de microrrelatos"
 description: ""
 toc: false

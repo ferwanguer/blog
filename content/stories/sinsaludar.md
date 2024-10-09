@@ -1,6 +1,6 @@
 ---
 title: "Emilio no sabe saludar"
-date: "2023-04-22"
+date: "2024-04-22"
 summary: "Escrito en el mismo curso de relatos. Intenta, de forma infructuosa, ser comedia."
 description: "Un relato corto"
 toc: false
