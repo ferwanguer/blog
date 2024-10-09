@@ -1,6 +1,6 @@
 ---
 title: "Cuestiones de educación"
-date: "2024-10-9"
+date: "2024-10-09"
 summary: "No es trivial definir bajo qué supuestos uno debe saludar a un desconocido."
 description: "Un relato corto"
 draft: false
