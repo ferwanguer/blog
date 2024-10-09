@@ -13,7 +13,7 @@ showTags: false
 hideBackToTop: false
 ---
 
-Pancho no se considera un talibán de los saludos, ni de los modales. Simplemente cree que es de rigor saludar a la gente a la que ve habitualmente. No son desconocidos. Tal vez no-conocidos en la esfera de posibilidad. Pancho lo define de una forma más prosaica.
+Pancho no se considera un talibán de los saludos, ni de los modales. Simplemente cree que es de rigor saludar a la gente a la que ve habitualmente. No son desconocidos. Tal vez *no-conocidos* en la esfera de posibilidad. Pancho lo define de una forma más prosaica.
 
 —Yo a una persona a la que le veo la cara más de 2 veces al mes no la considero desconocida, aunque la interacción sea ínfima.  Si te puedo responder con un “hasta la próxima” te debo saludar. Y tú debes saludarme.
 
@@ -64,9 +64,9 @@ Domingo por la mañana, sale con música puesta a la calle. Se aproxima una señ
 
 Con las cejas arqueadas y ligeramente desarmado ante el acto de espontaneidad, responde:
 
-–Buenosdiasquetal
+–*Buenosdiasquetal*
 
-Mira tú, un que tal sin que tal. Lo dice por decir, Pancho no tiene ningún interés en el estado anímico de la involucrada. Sin embargo, a la salida del portal cuando sus caminos se separan y ya ninguno de los dos se ve el semblante, ella responde inocente.
+Mira tú, un *que tal* sin que tal. Lo dice por decir, Pancho no tiene ningún interés en el estado anímico de la involucrada. Sin embargo, a la salida del portal cuando sus caminos se separan y ya ninguno de los dos se ve el semblante, ella responde inocente.
 
 –Muy bien, gracias.
 
