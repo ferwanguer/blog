@@ -9,7 +9,7 @@ readTime: true
 autonumber: true
 math: true
 tags: ["relato", "saludos", "comedia sin pretensiones"]
-showTags: true
+showTags: false
 hideBackToTop: false
 ---
 
