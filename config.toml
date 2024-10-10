@@ -70,9 +70,7 @@ url = "/blog/stories"
 name = "Polis"
 url = "/blog/politics"
 
-[[params.menu]]
-name = "Critique"
-url = "/blog/generalcritique"
+
 
 [[params.menu]]
 name = "About"
