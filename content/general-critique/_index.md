@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Critic"
 date: "2024-11-12"
 summary: ""
 description: ""
