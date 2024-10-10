@@ -1,8 +1,8 @@
 ---
 title: "Critic"
 date: "2024-11-12"
-summary: ""
-description: ""
+summary: "test"
+description: "test"
 toc: false
 readTime: true
 autonumber: true
