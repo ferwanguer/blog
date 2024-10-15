@@ -71,7 +71,6 @@ name = "Polis"
 url = "/blog/politics"
 
 
-
 [[params.menu]]
 name = "About"
 url = "/blog/about"

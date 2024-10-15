@@ -13,21 +13,21 @@ showTags: false
 hideBackToTop: false
 ---
 
-Pancho no se considera un talibán de los saludos, ni de los modales. Simplemente cree que es de rigor saludar a la gente a la que ve habitualmente. No son desconocidos. Tal vez *no-conocidos* en la esfera de posibilidad. Pancho lo define de una forma más prosaica.
+Pancho no se considera un talibán de los saludos, ni de los modales. Simplemente cree que es de rigor saludar a la gente a la que ve habitualmente. No son desconocidos. Tal vez *no-conocidos* en una esfera de posibilidad. Pancho lo define de una forma más prosaica.
 
 —Yo a una persona a la que le veo la cara más de 2 veces al mes no la considero desconocida, aunque la interacción sea ínfima.  Si te puedo responder con un “hasta la próxima” te debo saludar. Y tú debes saludarme.
 
-Empezó a pensarlo en la universidad, en pasillos por los que se encontraba día sí, día también, las mismas caras con pesadumbre mirando al suelo evitando interacción.
+Empezó a pensarlo en la universidad, en pasillos por los que se encontraba día sí, día también, a las mismas caras con pesadumbre mirando al suelo evitando interacción.
 
 —¿Tan complicado es? Quiero decir, veo a esta gente más que a mis padres y no intercambiamos ni una mirada. 
 
-Por aquella época, lejana ya, Pancho se limitaba a fijar la mirada en aquellos de los que demandaba al menos un gesto mínimo.  Con mayor o menor acierto, conseguía que de vez en cuando esa gente sinsaludada arqueara las cejas o soltara una sonrisa como el que le tira una moneda a un mendigo. Sobra decir que amigos de estas performance no consiguió ninguno.  
+Por aquella época, lejana ya, Pancho se limitaba a fijar la mirada en aquellos de los que demandaba al menos un gesto mínimo.  Con mayor o menor acierto, conseguía que de vez en cuando esa gente *sinsaludada* arqueara las cejas o soltara una sonrisa como el que le tira una moneda a un mendigo. Sobra decir que amigos de estas *performance* no consiguió ninguno.  
 
-En cualquier caso, el tiempo pasó y aquellos pensamientos hibernaron en el olvido durante años, dejando hueco a todo tipo de casuística que impedía a Pancho prestar atención a si alguien le saludaba o dejaba de saludar. Etapas, ya sabes. Sin embargo, las grandes iniciativas vuelven aunque dormiten durante años y cuando Pancho se mudó tiempo después a donde vive ahora, su movimiento político volvió a despertar. Esta vez los aludidos fueron sus vecinos, y en lugar de los pasillos de la universidad, el escenario de la coreografía del saludo fue el patio interior que precedía un portal siempre acompañado del portero regando sus plantas con un Camel en la mano. Él sí que saludaba.
+En cualquier caso, el tiempo pasó y aquellos pensamientos hibernaron en el olvido durante años, dejando hueco a todo tipo de casuística que impedía a Pancho prestar atención a si alguien le saludaba o dejaba de saludar. Etapas, ya sabes. Sin embargo, las grandes iniciativas vuelven aunque dormiten durante años y cuando Pancho se mudó tiempo después a donde vive ahora, su movimiento político volvió a despertar. Esta vez los aludidos fueron sus vecinos y, en lugar de los pasillos de la universidad, el escenario de la coreografía del saludo fue el patio interior que precedía a un portal siempre acompañado del portero regando sus plantas con un Camel en la mano. Él sí que saludaba.
 
-–Como vamos Javier, ¿todo bien?
+–Cómo vamos Javier, ¿todo bien?
 
-Javier siempre abría mucho la boca pero no lo suficiente como para asumir una deficiencia intelectual.
+Javier siempre abría mucho la boca como si estuviera a punto de bostezar.
 
 –Holaeee
 
@@ -42,6 +42,7 @@ Vecinos, visitantes, o repartidores de Glovo. Todo aquel que coincidiera  con é
 Si el aludido iba de buen humor solía responder agradable, pero eran pocos. La mayoría seguía su camino vital sin reconocerse saludados. Así, Pancho empezó, siempre con educación, a levantar un poco la voz. Los buenos días empezaron a ser un poco más sonoros, tampoco mucho, nunca llegó a sobrecoger a nadie, pero sí que era más difícil no sentirse interpelado a saludar. El éxito fue abrumador.
 
 –Buenos días.
+
 –Buenos días!
 
 Día tras día, éxito tras éxito.
