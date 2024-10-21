@@ -12,7 +12,9 @@ showTags: false
 hideBackToTop: false
 ---
 —Entonces, ¿Ahora te vuelvo a ver, cuándo, en diciembre?
+
 —En principio sí, vuelvo ya por Navidad el día 15. Como el año pasado.
+
 El paseo de la Castellana llevaba tiempo a oscuras, lo normal cuando el otoño está a punto de terminar. El tráfico ha superado septiembre y se prepara para la explosión de navidades. La rutina ya asentada solo se ve perturbada por el sol poniéndose cada vez más pronto. Por eso, días como hoy refrescan un poco la mente, dan perspectiva. Me bajé del taxi; hoy tocaba repaso. Empezamos por elegir el espíritu que nos acompañaría: ginebra, en este caso.
 
 —Un Seagram 's con agua con gas, por favor.
