@@ -53,7 +53,7 @@ Acompañados del traqueteo de la maleta de Rafael, hablamos sobre su trabajo, la
 
 —¿De querer irte?
 
-—No, de echar de menos algún reto. Un hoyo del que salir, una montaña a la que subir. 
+—No, de echar de menos alguna exigencia de superación. Un hoyo del que salir, una montaña a la que subir. 
 
 —Tal vez la vida laboral sea así.
 
