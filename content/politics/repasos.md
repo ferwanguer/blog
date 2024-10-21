@@ -55,7 +55,7 @@ Acompañados del traqueteo de la maleta de Rafael, hablamos sobre su trabajo, la
 
 —No, de echar de menos alguna exigencia de superación. Un hoyo del que salir, una montaña a la que subir. 
 
-—Tal vez la vida laboral sea así.
+—Tal vez la vida laboral no tenga nada más que enseñar.
 
 —Me cuesta creerlo, la verdad. Pero tampoco lo puedo rebatir porque no he visto otra cosa.
 
