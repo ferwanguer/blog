@@ -1,8 +1,7 @@
 ---
 title: "Los días de repaso"
 date: "2024-10-20"
-summary: |
-    Instrucciones para reecontrarte con un amigo.
+summary: Instrucciones para reecontrarte con un amigo.
 description: "Historia real. Ficcionada para hacerla más *guay*
 toc: false
 readTime: true
