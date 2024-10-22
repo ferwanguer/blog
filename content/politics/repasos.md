@@ -36,11 +36,11 @@ Es cuando el camarero se va cuando el cansancio de ser jueves empieza a hacer me
 —No, hombre, no. De tus maletas. Un poco solo.
 
 Hablamos banalidad antes de abordar lo interesante que pudiera haber pasado durante los últimos meses en los que no nos habíamos visto. Pondría ejemplos, pero son conversaciones que rozan lo lobotómico. No es culpa de nadie. Si la persona con la que hablas no es bombero, superhéroe o, yo qué sé, ladrón de bancos, la vida ordinaria de cualquiera es, bueno eso, bastante ordinaria. Los repasos son anodinos, siempre similares y recalcando que, durante los meses de paréntesis en los que no nos hemos visto, lo que más ha pasado ha sido el tiempo. En fin, tampoco está mal; es la vida. Sentir apatía por la realidad es contraproducente y octubre es un mes para el optimismo.
-En el mejor de los casos, estas rememoraciones son un buen preludio a una conversación de verdad. Si hay suerte, eso sí. También podrían preceder a un silencio de incómodo sobre subtítulos que dirían:
+En el mejor de los casos, estas rememoraciones son un buen preludio a una conversación de verdad. Si hay suerte, eso sí. También podrían preceder a un silencio incómodo sobre subtítulos que dirían:
 
 "Bueno, hasta aquí, ¿no?"
 
-Aquí es pereza. Dinero y tiempo perdido, si es que se pudiera perder más. Acabar las conversaciones así como costumbre sería propio alcohólicos buscando compañía para disfrutar del último vicio legal. Para eso no habría venido. Pagamos y empezamos a caminar.
+Aquí es pereza. Dinero y tiempo perdido, si es que se pudiera perder más. Acabar las conversaciones así como costumbre sería propio de alcohólicos buscando compañía para disfrutar del último vicio legal. Para eso no habría venido. Pagamos y empezamos a caminar.
 Acompañados del traqueteo de la maleta de Rafael, hablamos sobre su trabajo, la vida profesional, desafíos venideros y anécdotas del pasado. También de temas más escabrosos como la incertidumbre inherente a la juventud o la búsqueda de obstáculos tras salir de la universidad. Del amor hablamos poco. Las conversaciones de verdad también tienen sus costumbres. Normalmente empiezan con una confesión.
 
 —Estoy pensando en irme de Alemania.
