@@ -71,7 +71,7 @@ No llevábamos caminando demasiado cuando nos encontramos con una cara *no-desco
 
 —¡Ay, qué pena! La próxima vez que vengas, avisa y montamos algo. ¡Nos tenemos que ver *más*!
 
-—Ya ves, la próxima vez que esté por Madrid,  aviso e intentamos cuadrar.
+—Ya ves, la próxima vez que esté por Madrid aviso e intentamos cuadrar.
 
 Avanzamos tras el clímax sentimental de la noche. Rafael, yo y su maleta.
 
