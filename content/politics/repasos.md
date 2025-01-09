@@ -1,5 +1,5 @@
 ---
-title: "Hablar de verdad, hablar de mentira"
+title: "Hablar de verdad"
 date: "2024-10-20"
 summary: Instrucciones para reecontrarte con un amigo.
 description: "Historia real. Ficcionada para hacerla más *guay*"
