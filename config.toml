@@ -75,6 +75,7 @@ url = "/blog/politics"
 name = "About"
 url = "/blog/about"
 
+
 # Syntax highligth on code blocks
 [markup]
 [markup.highlight]
