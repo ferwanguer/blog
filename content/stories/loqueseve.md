@@ -1,8 +1,8 @@
 ---
 title: "Solo lo que se ve"
-date: "2024-10-09"
+date: "2025-05-30"
 summary: "Una parte del proyecto actual que estoy escribiendo."
-description: "Un relato corto"
+description: "Un relato corto el día de Canarias."
 draft: false
 toc: false
 readTime: true
